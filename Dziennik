@@ -1,0 +1,4 @@
+19.11.2019 - oglądanie różnych tutoriali, czytanie dokumentacji. Pierwsza próba uruchomienia JetBot'a zakonczona niepowodzeniem z powodu braku monitora.
+22.11.2019 - przygotowania do uruchomienia JetBot'a (jutro bedzie monitor).
+23.11.2019 - pierwsze udane uruchomienie JetBot'a, wgranie sieci neuronowej służącej do rozpoznawania przedmiotów.
+JetBot bez problemowo rozpoznaje wiele różnych przedmiotów jak: piłeczka pingpongowa, kapsle z piwa, śrubki, długopisy, okulary itp
