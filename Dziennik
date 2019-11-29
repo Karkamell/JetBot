@@ -2,3 +2,5 @@
 22.11.2019 - przygotowania do uruchomienia JetBot'a (jutro bedzie monitor).
 23.11.2019 - pierwsze udane uruchomienie JetBot'a, wgranie sieci neuronowej służącej do rozpoznawania przedmiotów.
 JetBot bez problemowo rozpoznaje wiele różnych przedmiotów jak: piłeczka pingpongowa, kapsle z piwa, śrubki, długopisy, okulary itp
+29.11.2019 - uruchomienie przykładowych programów: symulacja oceanu, zachowania cząsteczek, symulacja dymu i innych przykładów związanych z symulacja fizyki.
+przygotowywanie do pracy z biblioteka openCV niestety zakonczone niepowodzeniem z powodu przekroczenia miejsca na dysku (pełna biblioteka openCv przekracza wolne miejsce na karcie pamieci).
