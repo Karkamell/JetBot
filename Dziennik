@@ -4,3 +4,4 @@
 JetBot bez problemowo rozpoznaje wiele różnych przedmiotów jak: piłeczka pingpongowa, kapsle z piwa, śrubki, długopisy, okulary itp
 29.11.2019 - uruchomienie przykładowych programów: symulacja oceanu, zachowania cząsteczek, symulacja dymu i innych przykładów związanych z symulacja fizyki.
 przygotowywanie do pracy z biblioteka openCV niestety zakonczone niepowodzeniem z powodu przekroczenia miejsca na dysku (pełna biblioteka openCv przekracza wolne miejsce na karcie pamieci).
+30-31.11.2019 - próby uruchomienia programu slużącego do znajdowania pozycji obiektów na obrazie.
