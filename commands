@@ -1,2 +1,9 @@
 start jupyter:
-jupyter notebook --ip=0.0.0.0
+on pc make ssh tunnel 8000:localhost:8889
+
+on jetbot:
+type
+jupyter notebook
+
+now type in browster localhost:8000
+
