@@ -5,3 +5,7 @@ JetBot bez problemowo rozpoznaje wiele różnych przedmiotów jak: piłeczka pin
 29.11.2019 - uruchomienie przykładowych programów: symulacja oceanu, zachowania cząsteczek, symulacja dymu i innych przykładów związanych z symulacja fizyki.
 przygotowywanie do pracy z biblioteka openCV niestety zakonczone niepowodzeniem z powodu przekroczenia miejsca na dysku (pełna biblioteka openCv przekracza wolne miejsce na karcie pamieci).
 30-31.11.2019 - próby uruchomienia programu slużącego do znajdowania pozycji obiektów na obrazie.
+
+
+
+14.12.2019 - uruchomienie systemu na drugiej karcie microSD, próby uruchomienia zdalnego dostepu do robota za pomocą ssh i jupytera.
