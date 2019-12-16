@@ -9,3 +9,4 @@ przygotowywanie do pracy z biblioteka openCV niestety zakonczone niepowodzeniem 
 
 
 14.12.2019 - uruchomienie systemu na drugiej karcie microSD, próby uruchomienia zdalnego dostepu do robota za pomocą ssh i jupytera.
+15.12.2019 - udane uruchomienie zdalnego dostepu do robota za pomoca jupytera, podstawowe ruchy robotem : jazda do przodu, do tylu, skręcanie. 
